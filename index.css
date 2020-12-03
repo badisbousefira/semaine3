@@ -1,0 +1,34 @@
+h1 {
+    color: blue;
+    font-weight: bold;
+}
+.highligth{
+    background-color: yellow;
+    font-style: italic;
+}
+#main-menu{
+    border: 2px black solid;
+    border-radius: 10px;
+}
+.highligth .highligth{
+    color: white;
+}
+article p{
+    border: 2px black
+}
+div{
+    width:200px;
+    height:200opx;
+}
+.carre1{
+    background-color: blue
+}
+.carre2{
+    background-color: yellow
+}
+.carre3{
+    background-color: red
+}
+.carre4{
+    background-color: green
+}
